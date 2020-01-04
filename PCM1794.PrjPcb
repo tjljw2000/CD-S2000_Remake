@@ -106,6 +106,23 @@ GenerateClassCluster=0
 DocumentUniqueId=DQTPTORI
 
 [Document5]
+DocumentPath=audioplus.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AJCBLXKY
+
+[Document6]
 DocumentPath=footprint\CCB_Cap.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LGTFDKAA
 
-[Document6]
+[Document7]
 DocumentPath=footprint\SSOP(DB)28.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PDKJWVDL
 
-[Document7]
+[Document8]
 DocumentPath=AudioLib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NXZODWRG
 
-[Document8]
+[Document9]
 DocumentPath=footprint\OPA.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BDPPOSMT
 
-[Document9]
+[Document10]
 DocumentPath=PCB_Audio.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -188,9 +205,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JERWWMMF
+DocumentUniqueId=WWBGBUED
 
-[Document10]
+[Document11]
 DocumentPath=footprint\TRANSISTOR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +343,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP LaserJet Professional M1136 MFP
+TargetPrinter=Lenovo LJ2200
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
