@@ -72,6 +72,23 @@ GenerateClassCluster=0
 DocumentUniqueId=WUMXPXOV
 
 [Document3]
+DocumentPath=LP5912.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MMJIJNEJ
+
+[Document4]
 DocumentPath=footprint\Res.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YAADMQCM
 
-[Document4]
+[Document5]
 DocumentPath=footprint\OPA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DQTPTORI
 
-[Document5]
+[Document6]
 DocumentPath=audioplus.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AJCBLXKY
 
-[Document6]
+[Document7]
 DocumentPath=footprint\CCB_Cap.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LGTFDKAA
 
-[Document7]
+[Document8]
 DocumentPath=footprint\SSOP(DB)28.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PDKJWVDL
 
-[Document8]
+[Document9]
 DocumentPath=AudioLib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NXZODWRG
 
-[Document9]
+[Document10]
 DocumentPath=footprint\OPA.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BDPPOSMT
 
-[Document10]
+[Document11]
 DocumentPath=PCB_Audio.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WWBGBUED
 
-[Document11]
+[Document12]
 DocumentPath=footprint\TRANSISTOR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
